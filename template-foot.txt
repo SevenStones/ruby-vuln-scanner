@@ -1,0 +1,57 @@
+	</div> <!-- end cavsresults div--->
+  
+    
+    </div> <!--end mainbody div-->
+    <br class="clearfloat" />
+    
+     <div id="footer" class="smalllinks">
+    <ul>
+      <li class="last">
+        <script language="JavaScript1.2" type="text/javascript">
+
+		<!-- This script and many more are available free online at -->
+		<!-- The JavaScript Source!! http://javascript.internet.com -->
+		
+		<!-- Begin
+		var months=new Array(13);
+		months[1]="January";
+		months[2]="February";
+		months[3]="March";
+		months[4]="April";
+		months[5]="May";
+		months[6]="June";
+		months[7]="July";
+		months[8]="August";
+		months[9]="September";
+		months[10]="October";
+		months[11]="November";
+		months[12]="December";
+		var time=new Date();
+		var lmonth=months[time.getMonth() + 1];
+		var date=time.getDate();
+		var year=time.getYear();
+		if (year < 2000)    // Y2K Fix, Isaac Powell
+		year = year + 1900; // http://onyx.idbsu.edu/~ipowell
+		document.write(lmonth + " ");
+		document.write(date + ", " + year);
+		// End -->
+		</script>
+      </li>
+      
+      <li class="second"><a href="/sitemap.html">Site Map</a></li>
+      <li><a href="/privacy.html">Privacy Policy</a></li>
+      <li><a href="/profile.html">Profile</a></li>
+      <li><a href="/careers.html">Careers</a></li>
+      <li><a href="/links.html">Links</a></li>
+      <li class="last"><a href="/contact-us.php">Contact Us</a></li>
+    </ul>
+  </div> <!-- end footer -->
+ 
+
+
+<div id="copyright">Copyright &copy; 2010 - All Rights Reserved - PT Seven Stones (Indonesia)</div> <!--end copyright div-->
+
+</div><!--end main container div-->
+
+</body>
+<!-- InstanceEnd --></html>

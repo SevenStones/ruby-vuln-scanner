@@ -1,0 +1,106 @@
+<meta name="Revisit-After" content="7 days" />
+<meta name="keywords" content="information security, indonesia, architecture, vulnerability assessment" />
+<meta name="robots" content="index, follow, all" />
+<meta name="Author" content="Ian Tibble" />
+
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CAVS Results</title>
+<!-- TemplateEndEditable -->
+<link href="/css/template.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/scripts/jsbrwsniff-0.5.3/brwsniff.js"></script>
+<script type="text/javascript">
+var br=new Array(4);
+var os=new Array(2);
+os=getOS();
+br=getBrowser();
+opsys=os[0].toLowerCase();
+brwsr_id=br[0].toLowerCase();
+brwsr_major=getMajorVersion(br[1]);
+
+if (opsys=="linux"){
+	document.write('<link href="/css/template-linux.css" rel="stylesheet" type="text/css" />');
+}
+
+if ((brwsr_id == "msie") && (brwsr_major <= 6)){
+	alert("Your web browser is quite old, and we cannot condone the promotion of security problems on the Internet. Microsoft Internet Explorer versions older than 7 are not supported. Sorry. You may continue to browse www.seven-stones.biz, but please be aware of some formatting issues because of old software usage. Consider an upgrade. If your license is valid, you can upgrade for free");
+}
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+a:link {
+	color: #135486;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #135486;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+	background-color:#135486;
+}
+a:active {
+	text-decoration: none;
+	color: #135486;
+}
+-->
+</style>
+<link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+<div id="container" class="normal">
+
+<div id="header">
+  <img src="/images/seven-stones-logo.png" alt="Seven Stones Logo" class="fltlft" />
+	
+</div> 
+<div id="sidebar">
+
+	<div id="sidebar-top-img">
+    <img src="/images/tmplt/topcellgrey.png" width="170" height="43" />
+  	</div> 
+	<!--end sidebar-top-img-->
+    <div class="cell"><a href="/index.php">Home</a></div>
+    <div class="cell"><a href="/profile.html">Profile - About Us</a></div>
+    <div class="cell"><a href="/software/CAVS.php">Software</a></div>
+    <div class="cell"><a href="/security-de-engineering.html">SecDeng: The Book</a></div>
+    <div class="cell"><a href="/services-portfolio.html#architecture">Architecture</a></div>
+    <div class="cell"><a href="/services-portfolio.html#vulnassess">Vulnerability Assessment</a></div>
+    <div class="cell"><a href="/services-portfolio.html">Services Porfoilio</a></div>
+    <!--<div class="cell"><a href="/blog">Blog</a></div> --->
+    <div class="cell"><a href="/events.html">Events</a></div>
+    <div class="cell"><a href="/careers.html">Careers</a></div>
+    <div class="cell"><a href="/privacy.html">Privacy Policy</a></div>
+    <div class="cell"><a href="/links.html">Links</a></div>
+    <div class="cell"><a href="/contact-us.php">Contact Us</a></div>
+    <div class="cell"></div>
+    <img src="/images/tmplt/bottomcellgrey.png" width="170" />
+    
+    <div id="leftside-additions">
+    <div class="tgrey"><div class="bgrey"><div class="lgrey"><div class="rgrey"><div class="blgrey"><div class="brgrey"><div class="tlgrey"><div class="trgrey">
+	<span class="MediumDarkgrey">Connect with us on:</span>
+    <a href="http://www.xing.com/profile/Ian_Tibble"><img src="/images/xing.png" class="medtop image-link" /></a>
+    <p class="zero bbuffer15"></p>
+    <a href="http://id.linkedin.com/in/ianrtibble"><img src="/images/linkedin.png" class="image-link" /></a>
+    <p class="zero bbuffer15"></p>
+
+	
+      <a href="http://www.twitter.com/seven_stones"><img src="/images/twitter-logo.jpg" width="32" height="32" alt="twitter" /></a>
+    <span class="MediumDarkgrey">Twitter</span>
+	</div></div></div></div></div></div></div></div>
+    </div> <!--end left side additions-->
+  
+</div> <!--end sidebar div-->
+    
+<div id="mainbody" class="normal">
+<!-- InstanceBeginEditable name="mainbody" -->
+
+<p class="h3">Your CAVS Scan Results</p>
+<p></p>
+<div id="IPnTime">
+
+
